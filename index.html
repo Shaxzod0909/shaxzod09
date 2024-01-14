@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html  >
+<head>
+  <!-- Site made with Mobirise Website Builder v5.6.8, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v5.6.8, mobirise.com">
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:image:src" content="">
+  <meta property="og:image" content="">
+  <meta name="twitter:title" content="Bosh sahifa">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
+  <meta name="description" content="">
+  
+  
+  <title>Bosh sahifa</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Lexend:100,200,300,400,500,600,700,800,900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lexend:100,200,300,400,500,600,700,800,900&display=swap"></noscript>
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+  
+</head>
+<body>
+  
+  <section data-bs-version="5.1" class="menu menu2 cid-sFF0ciwnEL" once="menu" id="menu2-0">
+    
+    <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
+        <div class="container">
+            <div class="navbar-brand">
+                
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-success display-5" href="https://mobiri.se">Shaxzod Jo'lliyev</a></span>
+            </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-success display-4" href="#top">Bosh sahifa</a></li>
+                    <li class="nav-item"><a class="nav-link link text-success display-4" href="index.html#gallery5-3">Mening ishlarim</a></li><li class="nav-item"><a class="nav-link link text-success display-4" href="index.html#image1-b">Men haqimda</a></li></ul>
+                
+                <div class="navbar-buttons mbr-section-btn"><a class="btn btn-primary display-4" href="index.html#form4-6">Kontakt</a></div>
+            </div>
+        </div>
+    </nav>
+</section>
+
+<section data-bs-version="5.1" class="header11 cid-sFF0SGinka mbr-fullscreen" id="header11-1">
+
+    
+
+    
+
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-6 image-wrapper">
+                <img class="w-100" src="assets/images/photo-2023-12-20-01-9.jpg" alt="Mobirise Website Builder">
+            </div>
+            <div class="col-12 col-md">
+                <div class="text-wrapper text-center">
+                    <h1 class="mbr-section-title mbr-fonts-style mb-3 display-2">
+                        <strong>
+</strong><div><strong><br></strong></div><div><strong>Assalomu aleykum, men Jo'lliyev Shaxzod dasturchi va No-code mutaxasisi</strong></div></h1>
+                    <p class="mbr-text mbr-fonts-style display-7"></p>
+                    <div class="mbr-section-btn mt-3"><a class="btn btn-success display-7" href="index.html#gallery5-3">Mening ishim</a> <a class="btn btn-primary display-7" href="index.html#form4-6">Kontakt</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="gallery5 mbr-gallery cid-sFF3kfZheU" id="gallery5-3">
+    
+
+    
+
+    <div class="container-fluid">
+        <div class="mbr-section-head">
+            <h3 class="mbr-section-title mbr-fonts-style align-center m-0 display-2"><strong>Mening ishlarim</strong></h3>
+            
+        </div>
+        <div class="row mbr-gallery mt-4">
+            
+            
+            <div class="col-12 col-md-6 col-lg-3 item gallery-image active">
+                <div class="item-wrapper" data-toggle="modal" data-bs-toggle="modal" data-target="#u1iMI3JyLE-modal" data-bs-target="#u1iMI3JyLE-modal">
+                    <img class="w-100" src="assets/images/mbr-7.jpg" alt="Mobirise Website Builder" data-slide-to="0" data-bs-slide-to="0" data-target="#lb-u1iMI3JyLE" data-bs-target="#lb-u1iMI3JyLE">
+                    <div class="icon-wrapper">
+                        <span class="mobi-mbri mobi-mbri-search mbr-iconfont mbr-iconfont-btn"></span>
+                    </div>
+                </div>
+                <h6 class="mbr-item-subtitle mbr-fonts-style align-center mb-2 mt-2 display-7"><strong>No-code</strong></h6>
+            </div><div class="col-12 col-md-6 col-lg-3 item gallery-image">
+                <div class="item-wrapper" data-toggle="modal" data-bs-toggle="modal" data-target="#u1iMI3JyLE-modal" data-bs-target="#u1iMI3JyLE-modal">
+                    <img class="w-100" src="assets/images/mbr-646x431.jpg" alt="Mobirise Website Builder" data-slide-to="1" data-bs-slide-to="1" data-target="#lb-u1iMI3JyLE" data-bs-target="#lb-u1iMI3JyLE">
+                    <div class="icon-wrapper">
+                        <span class="mobi-mbri mobi-mbri-search mbr-iconfont mbr-iconfont-btn"></span>
+                    </div>
+                </div>
+                <h6 class="mbr-item-subtitle mbr-fonts-style align-center mb-2 mt-2 display-7"><strong>Kiber xavfsizlik</strong></h6>
+            </div>
+            
+        </div>
+
+        <div class="modal mbr-slider" tabindex="-1" role="dialog" aria-hidden="true" id="u1iMI3JyLE-modal">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <div class="carousel slide carousel-fade" id="lb-u1iMI3JyLE" data-interval="5000" data-bs-interval="5000">
+                            <div class="carousel-inner">
+                                
+                                
+                                <div class="carousel-item active">
+                                    <img class="d-block w-100" src="assets/images/mbr-7.jpg" alt="Mobirise Website Builder">
+                                </div><div class="carousel-item">
+                                    <img class="d-block w-100" src="assets/images/mbr-646x431.jpg" alt="Mobirise Website Builder">
+                                </div>
+                                
+                            </div>
+                            <ol class="carousel-indicators">
+                                <li data-slide-to="0" data-bs-slide-to="0" class="active" data-target="#lb-u1iMI3JyLE" data-bs-target="#lb-u1iMI3JyLE"></li>
+                                <li data-slide-to="1" data-bs-slide-to="1" data-target="#lb-u1iMI3JyLE" data-bs-target="#lb-u1iMI3JyLE"></li>
+                                
+                                
+                            </ol>
+                            <a role="button" href="" class="close" data-dismiss="modal" data-bs-dismiss="modal" aria-label="Close">
+                            </a>
+                            <a class="carousel-control-prev carousel-control" role="button" data-slide="prev" data-bs-slide="prev" href="#lb-u1iMI3JyLE">
+                                <span class="mobi-mbri mobi-mbri-arrow-prev" aria-hidden="true"></span>
+                                <span class="sr-only visually-hidden">Previous</span>
+                            </a>
+                            <a class="carousel-control-next carousel-control" role="button" data-slide="next" data-bs-slide="next" href="#lb-u1iMI3JyLE">
+                                <span class="mobi-mbri mobi-mbri-arrow-next" aria-hidden="true"></span>
+                                <span class="sr-only visually-hidden">Next</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="image1 cid-sFF75ZhH2d" id="image1-b">
+    
+
+    
+
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-12 col-lg-6">
+                <div class="image-wrapper">
+                    <img src="assets/images/mbr-1.jpg" alt="Mobirise Website Builder">
+                    
+                </div>
+            </div>
+            <div class="col-12 col-lg">
+                <div class="text-wrapper">
+                    <h3 class="mbr-section-title mbr-fonts-style mb-3 display-2"><strong>Men haqimda</strong></h3>
+                    <p class="mbr-text mbr-fonts-style display-7">Men Jo'lliyev Shaxzod Musabek o'g'li 2002-yil 23-iyunda Jizzax viloyati Forish tumanida tug'ilganman.Hozirgi kunda Toshkent Axborot Texnologiyalari Universiteti Samarqand filiali 3-kurs (sirtqi) Kompyuter injinerig fakulteti talabasiman. Hozirgi kunda Freelanser, Cyber security, No-code, Menejer&nbsp; bo'lib ishlayaman.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="form4 cid-sFF3qL4anb mbr-fullscreen" id="form4-6">
+
+    
+
+    
+
+    <div class="container">
+        <div class="row content-wrapper justify-content-center">
+            <div class="col-lg-4 offset-lg-1 mbr-form" data-form-type="formoid">
+<!--Formbuilder Form-->
+<form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name"><input type="hidden" name="email" data-form-email="true" value="W8FY6Wg16jaqtk+lRoB2Vj+ipWs410e/rpfs8m2+yOnMrjZsVNIhIDbQknnXYl2MKju53SrSs+FCiKQXOAOz/tcTUIlkuvm7lSfvEH12C6xd8rqVHr3vs8N2Y90SjsnL">
+<div class="row">
+<div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Shaklni to'ldirganingiz uchun tashakkur!</div>
+<div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">Oops...! some problem!</div>
+</div>
+<div class="dragArea row">
+<div class="col-lg-12 col-md-12 col-sm-12">
+<h1 class="mbr-section-title mb-4 display-2"><strong>Kontakt</strong></h1>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12">
+
+</div>
+<div data-for="name" class="col-lg-12 col-md col-12 form-group mb-3">
+<input type="text" name="name" placeholder="Ism" data-form-field="name" class="form-control display-7" value="" id="name-form4-6">
+</div>
+<div data-for="email" class="col-lg-12 col-md col-12 form-group mb-3">
+<input type="email" name="email" placeholder="Email" data-form-field="email" class="form-control display-7" value="" id="email-form4-6">
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12 form-group" data-for="textarea">
+<textarea name="textarea" placeholder="Xabar" data-form-field="textarea" class="form-control display-7" id="textarea-form4-6"></textarea>
+</div>
+<div class="col-12 col-md-auto mbr-section-btn"><button type="submit" class="btn btn-primary display-4"><span class="mobi-mbri mobi-mbri-paper-plane mbr-iconfont mbr-iconfont-btn"></span>Xabar yuborish</button></div>
+</div>
+</form><!--Formbuilder Form-->
+</div>
+            <div class="col-lg-6 offset-lg-1 col-12">
+                <div class="image-wrapper">
+                    <img class="w-100" src="assets/images/mbr.jpg" alt="Mobirise Website Builder">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="share3 cid-u0hu5quSfP" id="share3-1">
+    
+     
+    
+    
+    
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="col-12">
+                <h3 class="mbr-section-title align-center mb-3 mbr-fonts-style display-2"><strong>Ijtimoiy tarmoqlar</strong></h3>
+                <div class="social-list align-center">
+                   
+                    <a class="iconfont-wrapper bg-facebook m-2 " target="_blank" href="https://www.facebook.com/profile.php?id=61552611407467">
+                            <span class="socicon-facebook socicon"></span>
+                        </a>
+                        
+                        <a class="iconfont-wrapper bg-instagram m-2" href="https://www.instagram.com/shaxzod_programmer/" target="_blank">
+                            <span class="socicon-instagram socicon"></span>
+                        </a>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="contacts2 cid-sFF3B84VW8" id="contacts2-8">
+    <!---->
+    
+    
+    <div class="container">
+        <div class="mbr-section-head">
+            <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2"><strong>Mening kontaktim</strong></h3>
+            
+        </div>
+        <div class="row justify-content-center mt-4">
+            <div class="card col-12 col-md-6">
+                <div class="card-wrapper">
+                    <div class="image-wrapper">
+                        <span class="mbr-iconfont mobi-mbri-phone mobi-mbri"></span>
+                    </div>
+                    <div class="text-wrapper">
+                        <h6 class="card-title mbr-fonts-style mb-1 display-5"><strong>Telefon</strong></h6>
+                        <p class="mbr-text mbr-fonts-style display-7">88 325 09 09</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card col-12 col-md-6">
+                <div class="card-wrapper">
+                    <div class="image-wrapper">
+                        <span class="mbr-iconfont mobi-mbri-letter mobi-mbri"></span>
+                    </div>
+                    <div class="text-wrapper">
+                        <h6 class="card-title mbr-fonts-style mb-1 display-5">
+                            <strong>Email</strong>
+                        </h6>
+                        <p class="mbr-text mbr-fonts-style display-7">shaxzodjolliyev@gamil.com</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card col-12 col-md-6">
+                <div class="card-wrapper">
+                    <div class="image-wrapper">
+                        <span class="mbr-iconfont mbri-pin"></span>
+                    </div>
+                    <div class="text-wrapper">
+                        <h6 class="card-title mbr-fonts-style mb-1 display-5"><strong>Manzil</strong></h6>
+                        <p class="mbr-text mbr-fonts-style display-7">Jizzax viloyati, Forish tumani</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card col-12 col-md-6">
+                <div class="card-wrapper">
+                    <div class="image-wrapper">
+                        <span class="mbr-iconfont mobi-mbri-clock mobi-mbri"></span>
+                    </div>
+                    <div class="text-wrapper">
+                        <h6 class="card-title mbr-fonts-style mb-1 display-5"><strong>Ish vaqti</strong></h6>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            9:00 - 18:00
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="footer7 cid-sFF3CYc3p7" once="footers" id="footer7-9">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row align-center mbr-white">
+            <div class="col-12">
+                <p class="mbr-text mb-0 mbr-fonts-style display-7">
+                    <a href="https://kuula.co/share/collection/7FKtk?logo=0&info=0&fs=1&vr=1&sd=1&thumbs=1" class="text-primary">© Copyright 2024</a></p>
+            </div>
+        </div>
+    </div>
+</section><section class="display-7" style="padding: 0;align-items: center;justify-content: center;flex-wrap: wrap;    align-content: center;display: flex;position: relative;height: 4rem;"><a href="https://mobiri.se/" style="flex: 1 1;height: 4rem;position: absolute;width: 100%;z-index: 1;"><img alt="" style="height: 4rem;" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a><p style="margin: 0;text-align: center;" class="display-7">&#8204;</p><a style="z-index:1" href="https://mobirise.com"> Website Software</a></section><script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/ytplayer/index.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/theme/js/script.js"></script>  <script src="assets/formoid/formoid.min.js"></script>  
+  
+  
+</body>
+</html>
